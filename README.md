@@ -4,6 +4,6 @@
 ➜ [MBR and GPT Analysis](https://github.com/RosanaFSS/DFIR-System-Analysis-and-Recovery/blob/main/1%20.%20MBR%20and%20GPT%20Analysis.md),  boot process<br>
 ➜ [FAT32 Analysis - FAT32 file system]()<br>
 ➜ [EXT Analysis - EXT file system]()<br>
-➜ [NTFS Analysis]()<br>
+➜ [NTFS Analysis](https://github.com/RosanaFSS/DFIR-System-Analysis-and-Recovery/blob/main/4%20.%20NTFS%20Analysis.md)<br>
 ➜ [File Carving]()<br>
 ➜ [Diskrupt](https://github.com/RosanaFSS/DFIR-System-Analysis-and-Recovery/blob/main/6%20.%20Diskrupt.md)
