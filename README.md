@@ -6,4 +6,4 @@
 ➜ [EXT Analysis - EXT file system]()<br>
 ➜ [NTFS Analysis]()<br>
 ➜ [File Carving]()<br>
-➜ [Diskrupt]()
+➜ [Diskrupt](https://github.com/RosanaFSS/DFIR-System-Analysis-and-Recovery/blob/main/6%20.%20Diskrupt.md)
