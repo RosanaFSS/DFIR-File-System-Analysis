@@ -7,3 +7,5 @@
 ➜ [NTFS Analysis](https://github.com/RosanaFSS/DFIR-System-Analysis-and-Recovery/blob/main/4%20.%20NTFS%20Analysis.md)<br>
 ➜ [File Carving]()<br>
 ➜ [Diskrupt](https://github.com/RosanaFSS/DFIR-System-Analysis-and-Recovery/blob/main/6%20.%20Diskrupt.md)
+
+<h1 align="center"><img width="660px" src="https://github.com/user-attachments/assets/b075024d-3e48-4ec7-bfd0-dabe7c7d40a0"></h1>
